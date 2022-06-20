@@ -1,0 +1,36 @@
+.theme-color {
+    color: #f58320;
+}
+
+.form-control, .form-select {
+    border-radius: 0px;
+}
+
+.btn-theme {
+    background-color: #f58320;
+    color: white;
+}
+
+.card {
+    box-shadow: 0px 0px 10px #b9b9b9;
+}
+
+.ks-table tbody tr td {
+    min-width: 130px;
+}
+
+.form-group label {
+    color: #2468b1;
+    font-size: 14px;;
+}
+
+.ks-input {
+    border: 1px solid #969696;
+    background-color: #e2e2e2;
+    outline: none;
+    max-width: 160px;
+}
+
+.float-right {
+    float: right;
+}
